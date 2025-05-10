@@ -1,0 +1,1 @@
+{"model_name": "distilbert-base-uncased", "max_length": 128, "metrics": {"eval_loss": 0.0061781322583556175, "eval_accuracy": 0.999, "eval_f1": 0.9990393852065321, "eval_precision": 1.0, "eval_recall": 0.9980806142034548, "eval_runtime": 0.7901, "eval_samples_per_second": 1265.633, "eval_steps_per_second": 20.25, "epoch": 3.0}, "classes": ["True News", "Fake News"]}
